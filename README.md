@@ -1,2 +1,1 @@
-# ai-nd
-# ai-nd
+This repository is for Udacity Artificial Intelligence Nanodegree projects.
